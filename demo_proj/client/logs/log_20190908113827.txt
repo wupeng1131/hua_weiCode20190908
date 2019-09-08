@@ -1,0 +1,852 @@
+['D:\\CODE\\huawei\\\xca\xd4\xcc\xe2\xb9\xa4\xb3\xcc\\demo_proj\\client\\ballclient\\main.py', '3333', '127.0.0.1', '6001']
+start client....................
+round start
+0
+id 5 from( 19 7 ) to( 17 10 ) power_task value:: 1.0
+['left']
+id 6 from( 0 13 ) to( 4 11 ) power_task value:: 0.833333333333
+['up']
+id 4 from( 1 0 ) to( 3 2 ) power_task value:: 0.5
+['right']
+id 7 from( 18 19 ) to( 15 10 ) power_task value:: 0.416666666667
+['left']
+0.497000217438 s
+1
+id 5 from( 18 7 ) to( 17 10 ) power_task value:: 1.25
+['left']
+id 6 from( 0 12 ) to( 4 11 ) power_task value:: 1.0
+['up']
+id 4 from( 2 0 ) to( 3 2 ) power_task value:: 0.666666666667
+['down']
+id 7 from( 17 19 ) to( 16 16 ) power_task value:: 0.5
+['up']
+0.486999988556 s
+2
+id 5 from( 17 7 ) to( 17 10 ) power_task value:: 1.66666666667
+['down']
+id 6 from( 0 11 ) to( 4 11 ) power_task value:: 1.25
+['right']
+id 4 from( 2 1 ) to( 3 2 ) power_task value:: 1.0
+['right']
+id 7 from( 17 18 ) to( 16 16 ) power_task value:: 0.666666666667
+['up']
+0.384999990463 s
+3
+id 5 from( 17 8 ) to( 17 10 ) power_task value:: 2.5
+['down']
+id 4 from( 3 1 ) to( 3 2 ) power_task value:: 2.0
+['down']
+id 6 from( 1 11 ) to( 4 11 ) power_task value:: 1.66666666667
+['right']
+id 7 from( 17 17 ) to( 16 16 ) power_task value:: 1.0
+['up']
+0.424999952316 s
+4
+id 5 from( 17 9 ) to( 17 10 ) power_task value:: 5.0
+['down']
+id 6 from( 2 11 ) to( 4 11 ) power_task value:: 2.5
+['right']
+id 4 from( 3 2 ) to( 3 3 ) power_task value:: 2.0
+['down']
+id 7 from( 17 16 ) to( 16 16 ) power_task value:: 2.0
+['left']
+0.450000047684 s
+5
+id 6 from( 3 11 ) to( 4 11 ) power_task value:: 5.0
+['right']
+id 7 from( 16 16 ) to( 16 15 ) power_task value:: 2.0
+['up']
+id 4 from( 3 3 ) to( 2 9 ) power_task value:: 0.384615384615
+['right']
+id 5 from( 17 10 ) to( 15 10 ) power_task value:: 0.277777777778
+['up']
+0.528000116348 s
+6
+id 7 from( 16 15 ) to( 16 14 ) power_task value:: 2.0
+['up']
+id 4 from( 4 3 ) to( 2 9 ) power_task value:: 0.416666666667
+['right']
+id 5 from( 17 9 ) to( 15 10 ) power_task value:: 0.294117647059
+['up']
+id 6 from( 4 11 ) to( 12 15 ) power_task value:: 0.277777777778
+['left']
+0.583000183105 s
+7
+id 7 from( 16 14 ) to( 15 10 ) power_task value:: 1.0
+['up']
+id 4 from( 5 3 ) to( 2 9 ) power_task value:: 0.454545454545
+['down']
+id 6 from( 3 11 ) to( 3 14 ) power_task value:: 0.285714285714
+['left']
+id 5 from( 17 8 ) to( 3 15 ) power_task value:: 0.0869565217391
+['up']
+0.547999858856 s
+8
+id 7 from( 16 13 ) to( 15 10 ) power_task value:: 1.25
+['up']
+id 4 from( 5 4 ) to( 2 9 ) power_task value:: 0.5
+['down']
+id 6 from( 2 11 ) to( 3 14 ) power_task value:: 0.333333333333
+['left']
+id 5 from( 17 7 ) to( 3 15 ) power_task value:: 0.0909090909091
+['left']
+0.608000040054 s
+9
+id 7 from( 16 12 ) to( 15 10 ) power_task value:: 1.66666666667
+['up']
+id 4 from( 5 5 ) to( 2 9 ) power_task value:: 0.555555555556
+['down']
+id 6 from( 1 11 ) to( 3 14 ) power_task value:: 0.4
+['down']
+id 5 from( 16 7 ) to( 3 15 ) power_task value:: 0.0689655172414
+['right']
+0.911000013351 s
+10
+id 7 from( 16 11 ) to( 15 10 ) power_task value:: 2.5
+['left']
+id 4 from( 5 6 ) to( 2 9 ) power_task value:: 0.625
+['right']
+id 6 from( 1 12 ) to( 3 14 ) power_task value:: 0.5
+['down']
+id 5 from( 17 7 ) to( 3 15 ) power_task value:: 0.0833333333333
+['down']
+0.65299987793 s
+11
+id 7 from( 15 11 ) to( 15 10 ) power_task value:: 5.0
+['up']
+id 4 from( 6 6 ) to( 2 9 ) power_task value:: 0.714285714286
+['down']
+id 6 from( 1 13 ) to( 3 14 ) power_task value:: 0.666666666667
+['right']
+id 5 from( 17 8 ) to( 3 15 ) power_task value:: 0.0869565217391
+['left']
+1.0720000267 s
+12
+id 6 from( 2 13 ) to( 3 14 ) power_task value:: 1.0
+['right']
+id 4 from( 6 7 ) to( 2 9 ) power_task value:: 0.833333333333
+['down']
+id 5 from( 16 8 ) to( 10 11 ) power_task value:: 0.133333333333
+['left']
+id 7 from( 15 10 ) to( 11 16 ) wander_task value:: 0.0
+['left']
+0.52799987793 s
+13
+id 6 from( 3 13 ) to( 3 14 ) power_task value:: 2.0
+['down']
+id 4 from( 6 8 ) to( 2 9 ) power_task value:: 1.0
+['down']
+id 7 from( 14 13 ) to( 10 11 ) power_task value:: 0.125
+['right']
+id 5 from( 15 8 ) to( 11 8 ) wander_task value:: 0.0
+['left']
+0.593999862671 s
+14
+id 6 from( 3 14 ) to( 3 15 ) power_task value:: 2.0
+['down']
+id 4 from( 6 9 ) to( 2 9 ) power_task value:: 1.25
+['left']
+id 7 from( 15 13 ) to( 10 11 ) power_task value:: 0.133333333333
+['down']
+id 5 from( 14 13 ) to( 8 11 ) power_task value:: 0.111111111111
+['right']
+0.447000026703 s
+15
+id 6 from( 3 15 ) to( 3 16 ) power_task value:: 2.0
+['down']
+id 4 from( 5 9 ) to( 2 9 ) power_task value:: 1.66666666667
+['left']
+id 7 from( 15 14 ) to( 8 11 ) power_task value:: 0.125
+['down']
+id 5 from( 15 13 ) to( 11 8 ) wander_task value:: 0.000111111111111
+['left']
+0.664000034332 s
+16
+id 4 from( 4 9 ) to( 2 9 ) power_task value:: 2.5
+['left']
+id 7 from( 15 15 ) to( 16 15 ) power_task value:: 2.0
+['right']
+id 6 from( 3 16 ) to( 4 11 ) power_task value:: 0.5
+['up']
+0.336999893188 s
+17
+id 4 from( 3 9 ) to( 2 9 ) power_task value:: 5.0
+['left']
+id 7 from( 16 15 ) to( 16 14 ) power_task value:: 2.0
+['up']
+id 6 from( 3 15 ) to( 4 11 ) power_task value:: 0.555555555556
+['up']
+0.513000011444 s
+18
+id 6 from( 3 14 ) to( 4 11 ) power_task value:: 0.625
+['up']
+id 7 from( 16 14 ) to( 17 10 ) power_task value:: 0.333333333333
+['right']
+id 4 from( 2 9 ) to( 8 17 ) wander_task value:: 6.25e-05
+['right']
+0.460000038147 s
+19
+id 6 from( 3 13 ) to( 4 11 ) power_task value:: 0.714285714286
+['left']
+id 5 from( 1 0 ) to( 3 2 ) power_task value:: 0.5
+['right']
+id 7 from( 17 14 ) to( 17 10 ) power_task value:: 0.357142857143
+['right']
+id 4 from( 3 9 ) to( 3 3 ) power_task value:: 0.166666666667
+['right']
+0.591000080109 s
+20
+id 6 from( 2 13 ) to( 4 11 ) power_task value:: 0.833333333333
+['left']
+id 5 from( 2 0 ) to( 3 2 ) power_task value:: 0.666666666667
+['down']
+id 4 from( 4 9 ) to( 8 11 ) power_task value:: 0.2
+['right']
+id 7 from( 18 14 ) to( 3 3 ) power_task value:: 0.0714285714286
+['right']
+0.467000007629 s
+21
+id 5 from( 2 1 ) to( 3 2 ) power_task value:: 1.0
+['right']
+id 6 from( 1 13 ) to( 4 11 ) power_task value:: 1.0
+['up']
+id 4 from( 5 9 ) to( 8 11 ) power_task value:: 0.222222222222
+['right']
+id 7 from( 19 14 ) to( 3 3 ) power_task value:: 0.0740740740741
+['up']
+0.644999980927 s
+22
+id 5 from( 3 1 ) to( 3 2 ) power_task value:: 2.0
+['down']
+id 6 from( 1 12 ) to( 4 11 ) power_task value:: 1.25
+['up']
+id 4 from( 6 9 ) to( 8 11 ) power_task value:: 0.25
+['down']
+id 7 from( 19 13 ) to( 10 11 ) power_task value:: 0.153846153846
+['down']
+0.623999834061 s
+23
+id 5 from( 3 2 ) to( 3 3 ) power_task value:: 2.0
+['down']
+id 6 from( 1 11 ) to( 4 11 ) power_task value:: 1.66666666667
+['right']
+id 4 from( 6 10 ) to( 8 11 ) power_task value:: 0.285714285714
+['down']
+id 7 from( 19 14 ) to( 10 11 ) power_task value:: 0.166666666667
+['left']
+0.661000013351 s
+24
+id 6 from( 2 11 ) to( 4 11 ) power_task value:: 2.5
+['right']
+id 4 from( 6 11 ) to( 8 11 ) power_task value:: 0.333333333333
+['down']
+id 7 from( 18 14 ) to( 10 11 ) power_task value:: 0.181818181818
+['left']
+id 5 from( 3 3 ) to( 11 8 ) wander_task value:: 7.69230769231e-05
+['right']
+0.725999832153 s
+25
+id 6 from( 3 11 ) to( 4 11 ) power_task value:: 5.0
+['right']
+id 7 from( 17 14 ) to( 10 11 ) power_task value:: 0.2
+['up']
+id 5 from( 4 3 ) to( 8 11 ) power_task value:: 0.125
+['right']
+id 4 from( 6 12 ) to( 8 17 ) wander_task value:: 4e-05
+['up']
+0.713999986649 s
+26
+id 7 from( 17 13 ) to( 10 11 ) power_task value:: 0.222222222222
+['left']
+id 5 from( 5 3 ) to( 8 11 ) power_task value:: 0.133333333333
+['down']
+id 6 from( 4 11 ) to( 11 15 ) wander_task value:: 4.7619047619e-05
+['left']
+id 4 from( 6 11 ) to( 8 17 ) wander_task value:: 4.16666666667e-05
+['up']
+0.759999990463 s
+27
+id 7 from( 16 13 ) to( 10 11 ) power_task value:: 0.25
+['left']
+id 5 from( 5 4 ) to( 8 11 ) power_task value:: 0.142857142857
+['down']
+id 6 from( 3 11 ) to( 11 15 ) wander_task value:: 5e-05
+['left']
+id 4 from( 6 10 ) to( 8 17 ) wander_task value:: 4.34782608696e-05
+['up']
+0.700000047684 s
+28
+id 7 from( 15 13 ) to( 10 11 ) power_task value:: 0.285714285714
+['left']
+id 4 from( 6 9 ) to( 8 11 ) power_task value:: 0.1
+['up']
+id 5 from( 5 5 ) to( 11 8 ) wander_task value:: 0.000111111111111
+['down']
+id 6 from( 2 11 ) to( 11 15 ) wander_task value:: 5.26315789474e-05
+['left']
+0.84299993515 s
+29
+id 7 from( 14 13 ) to( 10 11 ) power_task value:: 0.333333333333
+['left']
+id 6 from( 1 11 ) to( 8 11 ) power_task value:: 0.181818181818
+['down']
+id 5 from( 5 6 ) to( 11 8 ) wander_task value:: 0.000125
+['right']
+id 4 from( 6 8 ) to( 8 17 ) wander_task value:: 4.7619047619e-05
+['up']
+0.674000024796 s
+30
+id 7 from( 13 13 ) to( 10 11 ) power_task value:: 0.4
+['left']
+id 6 from( 1 12 ) to( 8 11 ) power_task value:: 0.2
+['down']
+id 4 from( 6 7 ) to( 8 17 ) wander_task value:: 0.0
+['left']
+id 5 from( 6 6 ) to( 11 8 ) wander_task value:: 0.0
+['left']
+0.569000005722 s
+31
+id 7 from( 12 13 ) to( 10 11 ) power_task value:: 0.5
+['left']
+id 6 from( 1 13 ) to( 3 16 ) power_task value:: 0.4
+['right']
+id 4 from( 5 7 ) to( 8 11 ) power_task value:: 0.0952380952381
+['left']
+0.43799996376 s
+32
+id 7 from( 11 13 ) to( 10 11 ) power_task value:: 0.666666666667
+['left']
+id 6 from( 2 13 ) to( 3 16 ) power_task value:: 0.5
+['right']
+id 4 from( 4 7 ) to( 8 11 ) power_task value:: 0.0714285714286
+['up']
+0.46799993515 s
+33
+id 7 from( 10 13 ) to( 10 11 ) power_task value:: 1.0
+['up']
+id 6 from( 3 13 ) to( 3 16 ) power_task value:: 0.666666666667
+['down']
+id 4 from( 4 6 ) to( 8 11 ) power_task value:: 0.0740740740741
+['up']
+0.507000207901 s
+34
+id 7 from( 10 12 ) to( 10 11 ) power_task value:: 2.0
+['up']
+id 6 from( 3 14 ) to( 3 16 ) power_task value:: 1.0
+['down']
+id 5 from( 19 7 ) to( 11 8 ) wander_task value:: 0.000111111111111
+['left']
+id 4 from( 4 5 ) to( 8 17 ) wander_task value:: 4.16666666667e-05
+['left']
+0.47000002861 s
+35
+id 6 from( 3 15 ) to( 3 16 ) power_task value:: 2.0
+['down']
+id 5 from( 18 7 ) to( 11 8 ) wander_task value:: 0.000125
+['left']
+id 4 from( 3 5 ) to( 8 17 ) wander_task value:: 4.34782608696e-05
+['left']
+id 7 from( 10 11 ) to( 11 16 ) wander_task value:: 1.20481927711e-05
+['right']
+0.579999923706 s
+36
+id 7 from( 11 13 ) to( 11 16 ) wander_task value:: 0.000333333333333
+['down']
+id 5 from( 17 7 ) to( 11 8 ) wander_task value:: 0.000142857142857
+['left']
+id 6 from( 3 16 ) to( 11 15 ) wander_task value:: 9.09090909091e-05
+['right']
+id 4 from( 2 5 ) to( 8 17 ) wander_task value:: 5e-05
+['down']
+0.56299996376 s
+37
+id 7 from( 11 14 ) to( 11 16 ) wander_task value:: 0.0005
+['down']
+id 5 from( 16 7 ) to( 11 8 ) wander_task value:: 0.000166666666667
+['left']
+id 6 from( 4 16 ) to( 11 15 ) wander_task value:: 0.0001
+['right']
+id 4 from( 2 6 ) to( 8 17 ) wander_task value:: 5.26315789474e-05
+['right']
+0.457999944687 s
+38
+id 5 from( 15 7 ) to( 11 8 ) wander_task value:: 0.0002
+['left']
+id 6 from( 5 16 ) to( 11 15 ) wander_task value:: 0.000111111111111
+['right']
+id 7 from( 11 15 ) to( 16 15 ) wander_task value:: 0.000111111111111
+['down']
+id 4 from( 3 6 ) to( 8 17 ) wander_task value:: 4.54545454545e-05
+['left']
+0.40499997139 s
+39
+id 6 from( 6 16 ) to( 11 15 ) wander_task value:: 0.000125
+['right']
+id 7 from( 11 16 ) to( 16 15 ) wander_task value:: 0.000125
+['down']
+id 5 from( 14 7 ) to( 11 8 ) wander_task value:: 0.0
+['left']
+id 4 from( 2 6 ) to( 8 17 ) wander_task value:: 4.7619047619e-05
+['left']
+0.396999835968 s
+40
+id 5 from( 13 7 ) to( 11 8 ) wander_task value:: 0.0002
+['down']
+id 6 from( 7 16 ) to( 11 15 ) wander_task value:: 0.000142857142857
+['down']
+id 7 from( 11 17 ) to( 16 15 ) wander_task value:: 0.000142857142857
+['right']
+id 4 from( 1 6 ) to( 8 17 ) wander_task value:: 5e-05
+['right']
+0.438000202179 s
+41
+id 6 from( 7 17 ) to( 11 15 ) wander_task value:: 0.000166666666667
+['right']
+id 7 from( 12 17 ) to( 16 15 ) wander_task value:: 0.000166666666667
+['right']
+id 5 from( 13 8 ) to( 10 4 ) wander_task value:: 0.000142857142857
+['left']
+id 4 from( 2 6 ) to( 8 17 ) wander_task value:: 4.7619047619e-05
+['right']
+0.451999902725 s
+42
+id 6 from( 8 17 ) to( 11 15 ) wander_task value:: 0.0002
+['right']
+id 7 from( 13 17 ) to( 16 15 ) wander_task value:: 0.0002
+['up']
+id 5 from( 12 8 ) to( 10 4 ) wander_task value:: 0.000166666666667
+['up']
+id 4 from( 3 6 ) to( 8 17 ) wander_task value:: 4.54545454545e-05
+['left']
+0.442999839783 s
+43
+id 6 from( 9 17 ) to( 11 15 ) wander_task value:: 0.00025
+['up']
+id 7 from( 13 16 ) to( 16 15 ) wander_task value:: 0.00025
+['right']
+id 5 from( 12 7 ) to( 10 4 ) wander_task value:: 0.0002
+['left']
+id 4 from( 2 6 ) to( 8 17 ) wander_task value:: 5.26315789474e-05
+['right']
+0.445000171661 s
+44
+id 7 from( 14 16 ) to( 16 15 ) wander_task value:: 0.000333333333333
+['right']
+id 5 from( 11 7 ) to( 10 4 ) wander_task value:: 0.00025
+['up']
+id 6 from( 9 16 ) to( 12 10 ) wander_task value:: 0.000111111111111
+['up']
+id 4 from( 3 6 ) to( 8 17 ) wander_task value:: 4.54545454545e-05
+['left']
+0.438999891281 s
+45
+id 5 from( 11 6 ) to( 10 4 ) wander_task value:: 0.000333333333333
+['up']
+id 6 from( 9 15 ) to( 12 10 ) wander_task value:: 0.000125
+['up']
+id 7 from( 15 16 ) to( 4 3 ) wander_task value:: 3.84615384615e-05
+['left']
+id 4 from( 2 6 ) to( 8 17 ) wander_task value:: 4.7619047619e-05
+['right']
+0.440999984741 s
+46
+id 5 from( 11 5 ) to( 12 5 ) power_task value:: 5.0
+['right']
+id 6 from( 9 14 ) to( 9 15 ) power_task value:: 5.0
+['down']
+id 4 from( 3 6 ) to( 3 3 ) power_task value:: 0.666666666667
+['up']
+id 7 from( 14 16 ) to( 16 15 ) power_task value:: 0.666666666667
+['right']
+0.383999824524 s
+47
+id 6 from( 9 15 ) to( 8 15 ) power_task value:: 5.0
+['left']
+id 4 from( 3 5 ) to( 3 3 ) power_task value:: 1.0
+['up']
+id 7 from( 15 16 ) to( 16 15 ) power_task value:: 1.0
+['right']
+id 5 from( 12 5 ) to( 16 2 ) power_task value:: 0.0238095238095
+['right']
+0.455000162125 s
+48
+id 4 from( 3 4 ) to( 3 3 ) power_task value:: 2.0
+['up']
+id 7 from( 16 16 ) to( 16 15 ) power_task value:: 2.0
+['up']
+id 5 from( 15 5 ) to( 16 2 ) power_task value:: 0.5
+['up']
+id 6 from( 8 15 ) to( 16 14 ) power_task value:: 0.181818181818
+['right']
+0.447999954224 s
+49
+id 7 from( 16 15 ) to( 16 14 ) power_task value:: 2.0
+['up']
+id 5 from( 15 4 ) to( 16 2 ) power_task value:: 0.666666666667
+['up']
+id 6 from( 9 15 ) to( 12 10 ) wander_task value:: 0.000125
+['up']
+id 4 from( 3 3 ) to( 8 17 ) wander_task value:: 4.7619047619e-05
+['right']
+0.456000089645 s
+50
+id 5 from( 15 3 ) to( 16 2 ) power_task value:: 1.0
+['up']
+id 7 from( 16 14 ) to( 17 10 ) power_task value:: 0.333333333333
+['right']
+id 6 from( 9 14 ) to( 12 10 ) wander_task value:: 0.000142857142857
+['up']
+id 4 from( 4 3 ) to( 8 17 ) wander_task value:: 5e-05
+['right']
+0.407999992371 s
+51
+id 5 from( 15 2 ) to( 16 2 ) power_task value:: 2.0
+['right']
+id 7 from( 17 14 ) to( 17 10 ) power_task value:: 0.3125
+['right']
+id 6 from( 9 13 ) to( 12 10 ) wander_task value:: 0.000166666666667
+['right']
+id 4 from( 5 3 ) to( 8 17 ) wander_task value:: 5.26315789474e-05
+['down']
+0.43700003624 s
+52
+id 5 from( 16 2 ) to( 17 10 ) power_task value:: 0.555555555556
+['right']
+id 6 from( 10 13 ) to( 12 10 ) wander_task value:: 0.0002
+['right']
+id 4 from( 5 4 ) to( 8 17 ) wander_task value:: 5.55555555556e-05
+['down']
+id 7 from( 18 14 ) to( 4 3 ) wander_task value:: 4e-05
+['left']
+0.446000099182 s
+53
+id 5 from( 17 2 ) to( 17 10 ) power_task value:: 0.5
+['down']
+id 6 from( 11 13 ) to( 12 10 ) wander_task value:: 0.00025
+['right']
+id 4 from( 5 5 ) to( 8 17 ) wander_task value:: 5.88235294118e-05
+['down']
+id 7 from( 17 14 ) to( 4 3 ) wander_task value:: 4.16666666667e-05
+['up']
+0.462999820709 s
+54
+id 5 from( 17 3 ) to( 17 10 ) power_task value:: 0.555555555556
+['left']
+id 6 from( 12 13 ) to( 12 10 ) wander_task value:: 0.000333333333333
+['up']
+id 4 from( 5 6 ) to( 8 17 ) wander_task value:: 6.25e-05
+['right']
+id 7 from( 17 13 ) to( 4 3 ) wander_task value:: 4.34782608696e-05
+['left']
+0.399000167847 s
+55
+id 6 from( 12 12 ) to( 17 10 ) power_task value:: 0.384615384615
+['up']
+id 5 from( 16 3 ) to( 12 8 ) wander_task value:: 9.09090909091e-05
+['left']
+id 4 from( 6 6 ) to( 8 17 ) wander_task value:: 6.66666666667e-05
+['down']
+id 7 from( 16 13 ) to( 4 3 ) wander_task value:: 4.54545454545e-05
+['left']
+0.481999874115 s
+56
+id 6 from( 12 11 ) to( 17 10 ) power_task value:: 0.416666666667
+['up']
+id 5 from( 15 3 ) to( 12 8 ) wander_task value:: 0.0001
+['left']
+id 4 from( 6 7 ) to( 8 17 ) wander_task value:: 7.14285714286e-05
+['down']
+id 7 from( 15 13 ) to( 4 3 ) wander_task value:: 4.7619047619e-05
+['left']
+0.430000066757 s
+57
+id 6 from( 12 10 ) to( 17 10 ) power_task value:: 0.454545454545
+['up']
+id 5 from( 14 3 ) to( 12 8 ) wander_task value:: 0.000111111111111
+['left']
+id 4 from( 6 8 ) to( 8 17 ) wander_task value:: 7.69230769231e-05
+['down']
+id 7 from( 14 13 ) to( 4 3 ) wander_task value:: 5e-05
+['left']
+0.450000047684 s
+58
+id 6 from( 12 9 ) to( 17 10 ) power_task value:: 0.5
+['up']
+id 5 from( 13 3 ) to( 12 8 ) wander_task value:: 0.000125
+['left']
+id 4 from( 6 9 ) to( 8 17 ) wander_task value:: 8.33333333333e-05
+['down']
+id 7 from( 13 13 ) to( 4 3 ) wander_task value:: 5.26315789474e-05
+['up']
+0.394999980927 s
+59
+id 7 from( 13 12 ) to( 17 10 ) power_task value:: 0.416666666667
+['up']
+id 5 from( 12 3 ) to( 12 8 ) wander_task value:: 0.000142857142857
+['left']
+id 4 from( 6 10 ) to( 8 17 ) wander_task value:: 9.09090909091e-05
+['down']
+id 6 from( 12 8 ) to( 4 5 ) wander_task value:: 9.09090909091e-05
+['up']
+0.434000015259 s
+60
+id 5 from( 11 3 ) to( 17 10 ) power_task value:: 0.384615384615
+['down']
+id 4 from( 6 11 ) to( 3 15 ) power_task value:: 0.285714285714
+['down']
+id 6 from( 12 7 ) to( 4 5 ) wander_task value:: 0.0001
+['left']
+id 7 from( 13 11 ) to( 4 3 ) wander_task value:: 5.88235294118e-05
+['up']
+0.422999858856 s
+61
+id 5 from( 11 4 ) to( 17 10 ) power_task value:: 0.357142857143
+['up']
+id 4 from( 6 12 ) to( 3 15 ) power_task value:: 0.333333333333
+['left']
+id 6 from( 11 7 ) to( 4 5 ) wander_task value:: 0.000111111111111
+['left']
+id 7 from( 13 10 ) to( 4 3 ) wander_task value:: 6.25e-05
+['up']
+0.423000097275 s
+62
+id 4 from( 5 12 ) to( 3 15 ) power_task value:: 0.4
+['down']
+id 5 from( 11 3 ) to( 17 10 ) power_task value:: 0.384615384615
+['right']
+id 6 from( 10 7 ) to( 4 5 ) wander_task value:: 0.000125
+['left']
+id 7 from( 13 9 ) to( 4 3 ) wander_task value:: 6.66666666667e-05
+['up']
+0.443000078201 s
+63
+id 4 from( 5 13 ) to( 3 15 ) power_task value:: 0.5
+['left']
+id 5 from( 12 3 ) to( 17 10 ) power_task value:: 0.416666666667
+['right']
+id 6 from( 9 7 ) to( 4 5 ) wander_task value:: 0.000142857142857
+['left']
+id 7 from( 13 8 ) to( 4 3 ) wander_task value:: 7.14285714286e-05
+['up']
+0.419999837875 s
+64
+id 4 from( 4 13 ) to( 3 15 ) power_task value:: 0.666666666667
+['left']
+id 5 from( 13 3 ) to( 17 10 ) power_task value:: 0.454545454545
+['right']
+id 6 from( 8 7 ) to( 4 5 ) wander_task value:: 0.000166666666667
+['left']
+id 7 from( 13 7 ) to( 4 3 ) wander_task value:: 7.69230769231e-05
+['left']
+0.471999883652 s
+65
+id 4 from( 3 13 ) to( 3 15 ) power_task value:: 1.0
+['down']
+id 6 from( 7 7 ) to( 3 3 ) power_task value:: 0.25
+['up']
+id 5 from( 14 3 ) to( 12 8 ) wander_task value:: 0.000111111111111
+['left']
+id 7 from( 12 7 ) to( 4 3 ) wander_task value:: 8.33333333333e-05
+['left']
+0.410000085831 s
+66
+id 4 from( 3 14 ) to( 3 15 ) power_task value:: 2.0
+['down']
+id 6 from( 7 6 ) to( 3 3 ) power_task value:: 0.285714285714
+['left']
+id 5 from( 13 3 ) to( 3 2 ) power_task value:: 0.181818181818
+['left']
+id 7 from( 11 7 ) to( 4 3 ) wander_task value:: 9.09090909091e-05
+['up']
+0.406000137329 s
+67
+id 6 from( 6 6 ) to( 3 3 ) power_task value:: 0.333333333333
+['left']
+id 5 from( 12 3 ) to( 3 2 ) power_task value:: 0.2
+['left']
+id 4 from( 3 15 ) to( 8 17 ) wander_task value:: 0.000142857142857
+['right']
+id 7 from( 11 6 ) to( 4 3 ) wander_task value:: 0.0001
+['up']
+0.434000015259 s
+68
+id 6 from( 5 6 ) to( 3 3 ) power_task value:: 0.4
+['up']
+id 5 from( 11 3 ) to( 3 2 ) power_task value:: 0.222222222222
+['left']
+id 4 from( 4 15 ) to( 8 17 ) wander_task value:: 0.000166666666667
+['right']
+id 7 from( 11 5 ) to( 4 3 ) wander_task value:: 0.000111111111111
+['up']
+0.415999889374 s
+69
+id 6 from( 5 5 ) to( 3 3 ) power_task value:: 0.5
+['up']
+id 5 from( 10 3 ) to( 3 2 ) power_task value:: 0.25
+['left']
+id 4 from( 5 15 ) to( 8 17 ) wander_task value:: 0.0002
+['down']
+id 7 from( 11 4 ) to( 4 3 ) wander_task value:: 0.000125
+['up']
+0.413000106812 s
+70
+id 6 from( 5 4 ) to( 3 3 ) power_task value:: 0.666666666667
+['up']
+id 5 from( 9 3 ) to( 3 2 ) power_task value:: 0.285714285714
+['left']
+id 4 from( 5 16 ) to( 8 17 ) wander_task value:: 0.00025
+['right']
+id 7 from( 11 3 ) to( 4 3 ) wander_task value:: 0.000142857142857
+['left']
+0.416000127792 s
+71
+id 6 from( 5 3 ) to( 3 3 ) power_task value:: 1.0
+['left']
+id 5 from( 8 3 ) to( 3 2 ) power_task value:: 0.333333333333
+['left']
+id 4 from( 6 16 ) to( 8 17 ) wander_task value:: 0.000333333333333
+['right']
+id 7 from( 10 3 ) to( 4 3 ) wander_task value:: 0.000166666666667
+['left']
+0.433000087738 s
+72
+id 6 from( 4 3 ) to( 3 3 ) power_task value:: 2.0
+['left']
+id 5 from( 7 3 ) to( 3 2 ) power_task value:: 0.4
+['left']
+id 4 from( 7 16 ) to( 10 16 ) wander_task value:: 0.0002
+['down']
+id 7 from( 9 3 ) to( 4 3 ) wander_task value:: 0.0002
+['left']
+0.426000118256 s
+73
+id 6 from( 3 3 ) to( 3 2 ) power_task value:: 2.0
+['up']
+id 4 from( 7 17 ) to( 10 16 ) wander_task value:: 0.00025
+['right']
+id 7 from( 8 3 ) to( 4 3 ) wander_task value:: 0.00025
+['left']
+id 5 from( 6 3 ) to( 12 8 ) wander_task value:: 9.09090909091e-05
+['right']
+0.414000034332 s
+74
+id 4 from( 8 17 ) to( 10 16 ) wander_task value:: 0.000333333333333
+['right']
+id 7 from( 7 3 ) to( 4 3 ) wander_task value:: 0.000333333333333
+['left']
+id 5 from( 7 3 ) to( 12 8 ) wander_task value:: 0.0001
+['right']
+id 6 from( 3 2 ) to( 11 14 ) wander_task value:: 5e-05
+['right']
+0.422000169754 s
+75
+id 7 from( 6 3 ) to( 4 3 ) wander_task value:: 0.0005
+['left']
+id 5 from( 8 3 ) to( 12 8 ) wander_task value:: 0.000111111111111
+['right']
+id 6 from( 4 2 ) to( 11 14 ) wander_task value:: 5.26315789474e-05
+['right']
+id 4 from( 9 17 ) to( 11 5 ) wander_task value:: 6.25e-05
+['up']
+0.427999973297 s
+76
+id 5 from( 9 3 ) to( 12 8 ) wander_task value:: 7.14285714286e-05
+['right']
+id 7 from( 5 3 ) to( 3 15 ) wander_task value:: 6.25e-05
+['down']
+id 6 from( 5 2 ) to( 11 14 ) wander_task value:: 5.55555555556e-05
+['down']
+id 4 from( 9 16 ) to( 11 5 ) wander_task value:: 6.66666666667e-05
+['up']
+0.452000141144 s
+77
+id 5 from( 10 3 ) to( 12 8 ) wander_task value:: 7.69230769231e-05
+['right']
+id 7 from( 5 4 ) to( 3 15 ) wander_task value:: 6.66666666667e-05
+['down']
+id 6 from( 5 3 ) to( 11 14 ) wander_task value:: 5.88235294118e-05
+['down']
+id 4 from( 9 15 ) to( 11 5 ) wander_task value:: 7.14285714286e-05
+['up']
+0.456000089645 s
+78
+id 5 from( 11 3 ) to( 12 8 ) wander_task value:: 0.0001
+['left']
+id 7 from( 5 5 ) to( 3 15 ) wander_task value:: 7.14285714286e-05
+['down']
+id 6 from( 5 4 ) to( 11 14 ) wander_task value:: 6.25e-05
+['down']
+id 4 from( 9 14 ) to( 11 5 ) wander_task value:: 7.69230769231e-05
+['up']
+0.463999986649 s
+79
+id 5 from( 10 3 ) to( 12 8 ) wander_task value:: 0.000111111111111
+['left']
+id 7 from( 5 6 ) to( 3 15 ) wander_task value:: 7.69230769231e-05
+['right']
+id 6 from( 5 5 ) to( 11 14 ) wander_task value:: 6.66666666667e-05
+['down']
+id 4 from( 9 13 ) to( 11 5 ) wander_task value:: 8.33333333333e-05
+['right']
+0.453000068665 s
+80
+id 7 from( 6 6 ) to( 3 15 ) wander_task value:: 8.33333333333e-05
+['down']
+id 5 from( 9 3 ) to( 12 8 ) wander_task value:: 7.14285714286e-05
+['right']
+id 6 from( 5 6 ) to( 11 14 ) wander_task value:: 7.14285714286e-05
+['right']
+id 4 from( 10 13 ) to( 11 5 ) wander_task value:: 3.7037037037e-05
+['down']
+0.517999887466 s
+81
+id 5 from( 10 3 ) to( 12 8 ) wander_task value:: 0.000142857142857
+['down']
+id 7 from( 6 7 ) to( 3 15 ) wander_task value:: 9.09090909091e-05
+['down']
+id 6 from( 6 6 ) to( 11 14 ) wander_task value:: 7.69230769231e-05
+['down']
+id 4 from( 10 14 ) to( 11 5 ) wander_task value:: 3.84615384615e-05
+['down']
+0.43700003624 s
+82
+id 7 from( 6 8 ) to( 3 15 ) wander_task value:: 0.0001
+['down']
+id 6 from( 6 7 ) to( 11 14 ) wander_task value:: 8.33333333333e-05
+['down']
+id 5 from( 10 4 ) to( 12 8 ) wander_task value:: 0.0
+['left']
+id 4 from( 10 15 ) to( 11 5 ) wander_task value:: 4.34782608696e-05
+['down']
+0.501000165939 s
+83
+id 5 from( 9 4 ) to( 12 8 ) wander_task value:: 0.000142857142857
+['right']
+id 7 from( 6 9 ) to( 3 15 ) wander_task value:: 0.000111111111111
+['down']
+id 6 from( 6 8 ) to( 11 14 ) wander_task value:: 9.09090909091e-05
+['down']
+id 4 from( 10 16 ) to( 11 5 ) wander_task value:: 4.54545454545e-05
+['right']
+0.47400021553 s
+84
+id 5 from( 10 4 ) to( 12 8 ) wander_task value:: 0.000166666666667
+['right']
+id 7 from( 6 10 ) to( 3 15 ) wander_task value:: 0.000125
+['down']
+id 6 from( 6 9 ) to( 11 14 ) wander_task value:: 0.0001
+['down']
+id 4 from( 11 16 ) to( 11 5 ) wander_task value:: 4.7619047619e-05
+['down']
+0.423999786377 s
+85
+id 5 from( 11 4 ) to( 12 8 ) wander_task value:: 0.0002
+['down']
+id 7 from( 6 11 ) to( 3 15 ) wander_task value:: 0.000142857142857
+['down']
+id 6 from( 6 10 ) to( 11 14 ) wander_task value:: 0.000111111111111
+['down']
+id 4 from( 11 17 ) to( 11 5 ) wander_task value:: 4.54545454545e-05
+['up']
+0.381000041962 s
+can not connect with server. 127.0.0.1,6001

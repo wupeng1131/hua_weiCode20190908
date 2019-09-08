@@ -1,0 +1,4 @@
+['D:\\CODE\\huawei\\\xca\xd4\xcc\xe2\xb9\xa4\xb3\xcc\\demo_proj\\client\\ballclient\\main.py', '3333', '127.0.0.1', '6001']
+start client....................
+round start
+can not connect with server. 127.0.0.1,6001

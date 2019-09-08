@@ -1,0 +1,114 @@
+['D:\\CODE\\huawei\\\xca\xd4\xcc\xe2\xb9\xa4\xb3\xcc\\demo_proj\\client\\ballclient\\main.py', '3333', '127.0.0.1', '6001']
+start client....................
+round start
+0
+id 5 from( 19 7 ) to( 17 10 ) power_task value:: 1.0
+['left']
+id 6 from( 0 13 ) to( 4 11 ) power_task value:: 0.833333333333
+['up']
+id 4 from( 1 0 ) to( 3 2 ) power_task value:: 0.5
+['right']
+id 7 from( 18 19 ) to( 15 10 ) power_task value:: 0.416666666667
+['left']
+0.410000085831 s
+1
+id 5 from( 18 7 ) to( 17 10 ) power_task value:: 1.25
+['left']
+id 6 from( 0 12 ) to( 4 11 ) power_task value:: 1.0
+['up']
+id 4 from( 2 0 ) to( 3 2 ) power_task value:: 0.666666666667
+['down']
+id 7 from( 17 19 ) to( 16 16 ) power_task value:: 0.5
+['up']
+0.40299987793 s
+2
+id 5 from( 17 7 ) to( 17 10 ) power_task value:: 1.66666666667
+['down']
+id 6 from( 0 11 ) to( 4 11 ) power_task value:: 1.25
+['right']
+id 4 from( 2 1 ) to( 3 2 ) power_task value:: 1.0
+['right']
+id 7 from( 17 18 ) to( 16 16 ) power_task value:: 0.666666666667
+['up']
+0.346999883652 s
+3
+id 5 from( 17 8 ) to( 17 10 ) power_task value:: 2.5
+['down']
+id 4 from( 3 1 ) to( 3 2 ) power_task value:: 2.0
+['down']
+id 6 from( 1 11 ) to( 4 11 ) power_task value:: 1.66666666667
+['right']
+id 7 from( 17 17 ) to( 16 16 ) power_task value:: 1.0
+['up']
+0.401999950409 s
+4
+id 5 from( 17 9 ) to( 17 10 ) power_task value:: 5.0
+['down']
+id 6 from( 2 11 ) to( 4 11 ) power_task value:: 2.5
+['right']
+id 4 from( 3 2 ) to( 3 3 ) power_task value:: 2.0
+['down']
+id 7 from( 17 16 ) to( 16 16 ) power_task value:: 2.0
+['left']
+0.524999856949 s
+5
+id 6 from( 3 11 ) to( 4 11 ) power_task value:: 5.0
+['right']
+id 7 from( 16 16 ) to( 16 15 ) power_task value:: 2.0
+['up']
+id 4 from( 3 3 ) to( 2 9 ) power_task value:: 0.384615384615
+['right']
+id 5 from( 17 10 ) to( 15 10 ) power_task value:: 0.277777777778
+['up']
+0.646000146866 s
+6
+id 7 from( 16 15 ) to( 16 14 ) power_task value:: 2.0
+['up']
+id 4 from( 4 3 ) to( 2 9 ) power_task value:: 0.416666666667
+['right']
+id 5 from( 17 9 ) to( 15 10 ) power_task value:: 0.294117647059
+['up']
+id 6 from( 4 11 ) to( 12 15 ) power_task value:: 0.277777777778
+['left']
+0.949000120163 s
+7
+id 7 from( 16 14 ) to( 15 10 ) power_task value:: 1.0
+['up']
+id 4 from( 5 3 ) to( 2 9 ) power_task value:: 0.454545454545
+['down']
+id 6 from( 3 11 ) to( 3 14 ) power_task value:: 0.285714285714
+['left']
+id 5 from( 17 8 ) to( 3 15 ) power_task value:: 0.0869565217391
+['up']
+0.781999826431 s
+8
+id 7 from( 16 13 ) to( 15 10 ) power_task value:: 1.25
+['up']
+id 4 from( 5 4 ) to( 2 9 ) power_task value:: 0.5
+['down']
+id 6 from( 2 11 ) to( 3 14 ) power_task value:: 0.333333333333
+['left']
+id 5 from( 17 7 ) to( 3 15 ) power_task value:: 0.0909090909091
+['left']
+0.706000089645 s
+9
+id 7 from( 16 12 ) to( 15 10 ) power_task value:: 1.66666666667
+['up']
+id 4 from( 5 5 ) to( 2 9 ) power_task value:: 0.555555555556
+['down']
+id 6 from( 1 11 ) to( 3 14 ) power_task value:: 0.4
+['down']
+id 5 from( 16 7 ) to( 3 15 ) power_task value:: 0.0689655172414
+['right']
+0.743999958038 s
+10
+id 7 from( 16 11 ) to( 15 10 ) power_task value:: 2.5
+['left']
+id 4 from( 5 6 ) to( 2 9 ) power_task value:: 0.625
+['right']
+id 6 from( 1 12 ) to( 3 14 ) power_task value:: 0.5
+['down']
+id 5 from( 17 7 ) to( 3 15 ) power_task value:: 0.0833333333333
+['down']
+0.571000099182 s
+11

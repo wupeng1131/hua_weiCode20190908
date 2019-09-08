@@ -1,0 +1,14 @@
+['D:\\CODE\\huawei\\\xca\xd4\xcc\xe2\xb9\xa4\xb3\xcc\\demo_proj\\client\\ballclient\\main.py', '3333', '127.0.0.1', '6001']
+start client....................
+round start
+0
+id 5 from( 19 7 ) to( 17 10 ) power_task value:: 1.0
+['left']
+id 6 from( 0 13 ) to( 4 11 ) power_task value:: 0.833333333333
+['up']
+id 4 from( 1 0 ) to( 3 2 ) power_task value:: 0.5
+['right']
+id 7 from( 18 19 ) to( 15 10 ) power_task value:: 0.416666666667
+['left']
+0.31200003624 s
+can not connect with server. 127.0.0.1,6001
